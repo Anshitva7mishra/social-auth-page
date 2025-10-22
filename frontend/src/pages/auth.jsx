@@ -184,7 +184,8 @@ const Auth = () => {
         >
 
 
-          // Enter yor webApp name instead of Devkot....
+          {/* Enter yor webApp name instead of Devkot.... */}
+          
           <h2 className="flex items-center justify-center text-2xl md:text-4xl font-semibold mb-6 tracking-wide gap-2 text-center">
             Welcome to Devkot
           </h2>
